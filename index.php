@@ -3,4 +3,6 @@
 	
 	echo "Teste upload";
 
+	echo "Teste";
+
 ?>
